@@ -1,0 +1,22 @@
+{
+    "name": "0930",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "BitBot": "github:4tronix/bitbot#1.4.6",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
